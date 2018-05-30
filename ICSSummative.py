@@ -206,10 +206,10 @@ wild4 = wildpokemon('Growlithe', random.randint(45, 50), 8, 'fire')
 wild5 = wildpokemon('Vulpix', random.randint(40, 50), 7, 'fire')
 wild6 = wildpokemon('Oddish', random.randint(30, 45), 6, 'grass')
 wild7 = wildpokemon('Tangela', random.randint(40, 50), 7, 'grass')
-guard1 = wildpokemon('Vaporeon', 45, 10, 'water')
-guard2 = wildpokemon('Leafeon', 40, 11, 'grass')
-guard3 = wildpokemon('Flareon', 45, 11, 'fire')
-boss = wildpokemon('Meowth', 55, 14, 'psychic')
+guard1 = wildpokemon('Vaporeon', 15, 10, 'water')
+guard2 = wildpokemon('Leafeon', 10, 11, 'grass')
+guard3 = wildpokemon('Flareon', 15, 11, 'fire')
+boss = wildpokemon('Meowth', 15, 14, 'psychic')
 
 wildlist = [wild1, wild2, wild3, wild4, wild5, wild6, wild7]
 guardlist = [guard1, guard2, guard3]
